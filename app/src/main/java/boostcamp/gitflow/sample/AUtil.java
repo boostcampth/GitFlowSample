@@ -2,7 +2,7 @@ package boostcamp.gitflow.sample;
 
 public class AUtil {
 
-    public static String getAA(){
-        return "AA";
+    public static String getBB(){
+        return "BB";
     }
 }
