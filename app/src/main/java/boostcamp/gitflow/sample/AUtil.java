@@ -1,6 +1,6 @@
 package boostcamp.gitflow.sample;
 
-public class Util {
+public class AUtil {
 
     public static String getAA(){
         return "AA";
